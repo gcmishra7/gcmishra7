@@ -1,85 +1,105 @@
 # Gour Mishra
 
-## Senior Data, AI & Analytics Architect  
-**Enterprise Architecture | Cloud-Native Data Platforms | AI at Scale**
-
-I am a **Senior Data and AI Architect** with **16+ years of experience** shaping enterprise data, analytics, and AI platforms across global organizations. My work focuses on **architecture ownership at scale**—from defining multi-year platform strategy to governing execution across engineering, product, security, and operations teams.
-
-I specialize in **designing resilient, cost-aware, and evolution-ready data and AI ecosystems**, enabling organizations to operationalize analytics, machine learning, and Generative AI with confidence.
+### Principal Data, AI & Analytics Architect  
+**Hyperscale Platforms | Enterprise AI | Cloud Transformation**
 
 ---
 
-## 🧭 Architectural Mandate
+## 👋 Profile at a Glance
 
-As a Senior Architect, my scope typically includes:
+- **16+ years** building enterprise data, analytics, and AI platforms  
+- Principal-level ownership of **architecture, standards, and strategy**  
+- Proven delivery at **global scale (5,000+ users, 100+ locations)**  
+- Deep expertise across **data engineering, AI/ML, cloud & platforms**  
+- Strong **executive advisory and customer-facing architecture** experience  
 
-- Defining **enterprise-wide data & AI architecture strategy**
-- Setting **architecture standards, reference patterns, and guardrails**
-- Leading **complex platform transformations** (legacy → cloud-native)
-- Governing cross-domain data products and federated architectures
-- Partnering with **C-suite, VPs, and domain leaders** on technology investment decisions
-- Balancing **innovation, risk, compliance, and cost efficiency**
+---
+
+## 🧭 Principal Architect Scope
+
+- Define **enterprise reference architectures** for data, ML, and AI  
+- Establish **architecture standards, guardrails, and best practices**  
+- Lead **cloud-native, containerized, and multi-cloud transformations**  
+- Review and unblock **high-risk, large-scale designs**  
+- Advise executives on **technology trade-offs, ROI, and scale**  
 
 ---
 
 ## 🏗️ Architecture Domains
 
-### Enterprise Data Architecture
-- Lakehouse, Data Mesh, EDW, Domain-Oriented Data Products  
-- Canonical data models and cross-domain integration  
-- Metadata-driven and self-service analytics platforms  
+### Data Platforms
+- Lakehouse, Data Mesh, EDW, Domain Data Products  
+- Federated governance & self-service analytics  
+- Metadata-driven platform design  
 
-### Cloud & Platform Architecture
-- Multi-cloud architectures (GCP & Azure)
-- Platform scalability, resilience, and observability
-- Cost governance (FinOps) embedded into architecture design  
+### Cloud, Containers & Platform
+- GCP & Azure (multi-region, production-grade)  
+- Containerized platforms using **Docker & Kubernetes**  
+- Scalable microservices for data and ML workloads  
+- Reliability, observability, and cost-aware architecture  
+- FinOps embedded into platform design  
 
-### AI & Advanced Analytics Architecture
-- End-to-end ML platform architecture (training, inference, monitoring)
-- Predictive analytics at infrastructure and enterprise scale
-- Generative AI platform design with governance, security, and ethics in mind
+### AI / ML / GenAI Architecture
+- **ML algorithm design & selection** based on business context  
+- Supervised & unsupervised learning at scale  
+- **Traditional ML**: Random Forest, Gradient Boosting, XGBoost  
+- **Neural Networks (ANN)** using TensorFlow / Keras  
+- **NLP architectures**: text classification, embeddings, semantic search  
+- **Computer Vision pipelines** using OpenCV (feature extraction, vision workflows)  
+- End-to-end ML platforms (train → deploy → monitor)  
+- Predictive analytics for infrastructure and enterprise operations  
+- Generative AI platforms using **OpenAI & Gemini** with governance  
 
-### Integration & Streaming
-- Event-driven architectures
-- Real-time and near-real-time data ingestion
-- API-first and federated access models
-
----
-
-## 🚀 Enterprise Impact
-- **Owned architecture vision** for large-scale cloud data platforms serving **5,000+ users globally**
-- Led enterprise migration from **legacy on-prem data stacks** to cloud-native platforms (GCP & Azure)
-- Designed real-time streaming architectures delivering **4x performance improvements** and **30% latency reduction**
-- Architected **Customer, Asset, and Product 360** platforms enabling real-time, API-based data access
-- Integrated ML-driven forecasting across **100+ global locations**, generating **$12M+ in operational savings**
-- Established **data engineering and AI architecture standards**, adopted across multiple business units
-- Enabled self-service analytics through **BYOD frameworks**, reducing time-to-insight and platform dependency
+### Streaming & Integration
+- Event-driven and real-time architectures  
+- Kafka, Pub/Sub, API-first access  
+- Low-latency ingestion for analytics & operations  
 
 ---
 
-## 🧠 Leadership & Influence
+## 🚀 Impact Highlights
 
-- Acted as **architecture authority and reviewer** across multiple programs
-- Mentored senior engineers, tech leads, and emerging architects
-- Led architecture forums, design reviews, and technical governance boards
-- Collaborated with Security, Compliance, and Risk teams on regulated workloads
-- Translated business strategy into executable platform roadmaps
+- Architected **enterprise data platforms** serving **5,000+ users globally**
+- Migrated legacy on-prem systems to **cloud-native GCP & Azure platforms**
+- Designed streaming pipelines with **4× performance** and **30% lower latency**
+- Built **Customer / Asset / Product 360** platforms with real-time APIs
+- Enabled ML-driven forecasting across **100+ global sites**
+- Delivered **$12M+ in operational savings** through predictive analytics
+- Established reusable **data, ML, and AI architecture standards**
 
 ---
 
-## 🧰 Technology Landscape (Architectural View)
+## 🧠 Influence & Leadership
 
-**Cloud Platforms**  
+- Architecture authority across multiple concurrent programs  
+- Led design reviews, architecture forums, and technical deep dives  
+- Mentored senior engineers, staff engineers, and architects  
+- Partnered with Security, Privacy, and Compliance teams  
+- Supported customer-facing teams with solution architecture  
+
+---
+
+## 🧰 Technology Snapshot
+
+**Cloud & Platform**  
 GCP (BigQuery, Dataflow, Composer, Dataform, Dataplex, Vertex AI), Azure  
 
+**Containers & Orchestration**  
+Docker, Kubernetes  
+
 **Data & Streaming**  
-BigQuery, Kafka, Pub/Sub, Apache Beam, Oracle, Postgres, SQL Server  
+BigQuery, Kafka, Pub/Sub, Apache Beam, Oracle, Postgres  
 
-**ML & AI**  
-Vertex AI, BigQuery ML, LLMs (OpenAI, Gemini), NLP pipelines  
+**AI / ML Frameworks & Algorithms**  
+- TensorFlow / Keras (ANN, deep learning)  
+- OpenCV (computer vision pipelines)  
+- NLP pipelines (embeddings, text classification, semantic search)  
+- Random Forest, Gradient Boosting, XGBoost  
+- Vertex AI, BigQuery ML  
+- LLMs: OpenAI, Gemini  
 
-**DevOps / DataOps / MLOps**  
-GitHub Actions, Cloud Build, CI/CD, Observability, Cost Controls  
+**DevOps / MLOps**  
+GitHub Actions, Cloud Build, CI/CD, Observability  
 
 **BI & Analytics**  
 Looker, Tableau, Power BI  
@@ -88,39 +108,36 @@ Looker, Tableau, Power BI
 
 ## 🎓 Credentials
 
-- Google Certified – **Professional Cloud Architect**
-- Certified in **AI Ethics & Governance** (NTU & SCS)
-- Accelerated Management Program – **NUS Business School**
-- **M.Tech, Computer Science** – NIT Rourkela  
-- **B.E., Computer Science** – Utkal University  
+- Google Certified – **Professional Cloud Architect**  
+- Certified in **AI Ethics & Governance** (NTU & SCS)  
+- Accelerated Management Program – **NUS Business School**  
+- M.Tech (CS) – NIT Rourkela | B.E. (CS) – Utkal University  
 
 ---
 
-## 🌍 Global & Industry Experience
+## 🌍 Industry & Geography
 
-- Technology & Cloud Infrastructure
-- Banking & Financial Services (Regulatory Reporting, Risk)
-- Healthcare & Clinical Analytics
-- Extensive experience across **APAC, US, and global delivery models**
+- Technology & Cloud Infrastructure  
+- Financial Services (Regulatory, Risk)  
+- Healthcare & Clinical Analytics  
+- APAC, US, and global delivery experience  
 
 ---
 
-## 🔭 Current Focus Areas
+## 🔭 Current Focus
 
-- Enterprise Generative AI adoption patterns
-- AI platform governance and responsible AI
-- Data Mesh and federated analytics at scale
-- Cost-efficient AI and analytics architectures
+- Enterprise GenAI adoption & governance  
+- Reference architectures for ML & AI at scale  
+- Kubernetes-based ML and vision pipelines  
+- Cost-efficient, production-grade AI systems  
 
 ---
 
 ## 📫 Connect
 
-- **LinkedIn**: https://www.linkedin.com/in/gourmishra  
-- **Email**: gourc.mishra@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/gourmishra  
+- Email: gourc.mishra@gmail.com  
 
 ---
 
-> _Architecture is not about choosing tools — it is about designing systems that organizations can trust, scale, and evolve for the next decade._
-- Multi-cloud architectures (GCP & Azure)
-- Platform scal
+> _At scale, AI architecture is not about models alone—it is about designing systems that can train, deploy, govern, and evolve reliably._
