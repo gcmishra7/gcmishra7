@@ -138,6 +138,3 @@ Looker, Tableau, Power BI
 - LinkedIn: https://www.linkedin.com/in/gourmishra  
 - Email: gourc.mishra@gmail.com  
 
----
-
-> _At scale, AI architecture is not about models alone—it is about designing systems that can train, deploy, govern, and evolve reliably._
