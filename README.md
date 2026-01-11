@@ -1,6 +1,6 @@
 # Gour Mishra
 
-### Principal Data, AI & Analytics Architect  
+### Data, AI & Analytics Architect  
 **Hyperscale Platforms | Enterprise AI | Cloud Transformation**
 
 ---
@@ -9,13 +9,13 @@
 
 - **16+ years** building enterprise data, analytics, and AI platforms  
 - Principal-level ownership of **architecture, standards, and strategy**  
-- Proven delivery at **global scale (5,000+ users, 100+ locations)**  
+- Proven delivery at **global scale (100K+ users, 100+ locations)**  
 - Deep expertise across **data engineering, AI/ML, cloud & platforms**  
 - Strong **executive advisory and customer-facing architecture** experience  
 
 ---
 
-## 🧭 Principal Architect Scope
+## 🧭 Architecture Scope
 
 - Define **enterprise reference architectures** for data, ML, and AI  
 - Establish **architecture standards, guardrails, and best practices**  
@@ -59,7 +59,7 @@
 
 ## 🚀 Impact Highlights
 
-- Architected **enterprise data platforms** serving **5,000+ users globally**
+- Architected **enterprise data platforms** serving **100k+ users globally**
 - Migrated legacy on-prem systems to **cloud-native GCP & Azure platforms**
 - Designed streaming pipelines with **4× performance** and **30% lower latency**
 - Built **Customer / Asset / Product 360** platforms with real-time APIs
